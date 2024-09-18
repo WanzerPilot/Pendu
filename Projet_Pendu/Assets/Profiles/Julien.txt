@@ -1,0 +1,1 @@
+{"name":"Julien","bestScore":16,"currentScore":1,"playedWords":["MANAGER","MANAGER","WORD","WORD","WORD","ZOMBIE","DEAD","DEAD","DEAD","DEAD","DEAD","DEAD","DEAD","DEAD","DEAD","WORD"]}
